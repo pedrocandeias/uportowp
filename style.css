@@ -1,0 +1,16 @@
+/*
+Theme Name: UPorto
+Theme URI: http://www.uporto.pt
+Author: UPorto CI
+Author URI: http://www.uporto.pt
+Github Theme URI: https://github.com/pedrocandeias/uportowp
+Description: UPorto WP Responsive Wordpress
+Version: 1.0.0
+License: GPL2
+Tags:  responsive,  custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, sticky-post, theme-options, translation-ready, accessibility-ready
+Text Domain: porto
+*/
+
+/*************** ADD YOUR CUSTOM CSS HERE  ***************/
+
+.bypostauthor {display: block;}
